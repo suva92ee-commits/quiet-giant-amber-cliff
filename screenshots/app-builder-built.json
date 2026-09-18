@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Suvadeep Mallik — Audio Portfolio",
+      "hasCanvas": false,
+      "bodyTextLen": 26666,
+      "bodyTextHash": "44db97997133dde147505eb8c7d4be4bc7440996a23839411a74857a34a785b0",
+      "bodyTextPrefix": "SM Suvadeep Mallik · Audio Samples Method Tools Craft Work Studi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Suvadeep Mallik — Audio Portfolio",
+      "hasCanvas": false,
+      "bodyTextLen": 26606,
+      "bodyTextHash": "a6cb84e4e77b8e110e63a692f92b5ea3dc7ffa4ecafd6717e9a8499291eed76c",
+      "bodyTextPrefix": "SM Suvadeep Mallik PDF THAKURNAGAR, WEST BENGAL, INDIA · 2016–20",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
